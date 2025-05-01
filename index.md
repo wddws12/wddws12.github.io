@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 我的学习资源分享
 ---
 
